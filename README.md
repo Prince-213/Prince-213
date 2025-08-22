@@ -1,5 +1,5 @@
 <div align="center">
-![Banner](./banner.png)
+<img src="./banner.png" alt="Banner">
 
 # Hi there, I'm Prince Küvuki 👋
 
